@@ -1,0 +1,13 @@
+.LabelText{
+    float: left;
+}
+
+.register{
+    margin: 0 auto;
+    margin-top: 1%;
+    position: relative;
+}
+
+.imgsize{
+    width: 150px;
+}

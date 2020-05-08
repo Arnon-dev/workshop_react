@@ -1,0 +1,14 @@
+.LabelText{
+    float: left;
+}
+
+.login{
+    margin: 0 auto;
+    margin-top: 10%;
+    position: relative;
+    width: 100%;
+}
+
+.imgsize{
+    width: 150px;
+}
